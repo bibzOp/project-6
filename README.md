@@ -1,5 +1,8 @@
 # project-6
 
+![image](https://github.com/user-attachments/assets/772d9d27-7790-4c11-95df-d6af895e1ceb)
+
+
 [Upload// This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
